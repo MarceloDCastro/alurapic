@@ -1,0 +1,13 @@
+div.img{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+img{
+  width: 500px;
+}
+
+a{
+  text-decoration: none;
+}
